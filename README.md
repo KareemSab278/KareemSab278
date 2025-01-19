@@ -66,6 +66,7 @@
 
 ## 🚀 **What I Do**
 - **Frontend Development**: Create responsive, simple, user-friendly interfaces.
+- **Cross-Platform Support**: Ensure websites are responsive and usable across devices. 
 - **Backend Integration**: Design server-side APIs.
 - **Problem Solving**: Apply logic to build real-world solutions.
 - **Relational Databases**: Create and manage relational databases using SQL.
