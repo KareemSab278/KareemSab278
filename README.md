@@ -54,7 +54,7 @@
 ### **4. Product Showcase Page**
 - [**Live Site**](https://kareemsab278.github.io/productsPage/)
 - Developed a simple dynamic product display using JSON and JavaScript.
-- Integrated filtering and search functionalities for enhanced user experience.
+- Integrated with an API using asynchronous programming in under one hour to test myself.
 
 ### **5. Calculator App**
 - [**Live Site**](https://kareemsab278.github.io/calculator/)
