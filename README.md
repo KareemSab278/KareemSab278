@@ -68,10 +68,6 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemSab278&layout=compact&theme=radical)
-
----
-
 ## 🌟 Goals
 🎯 Enhance skills in React and modern JavaScript frameworks (Next.js, Vue.js).  
 📖 Dive deeper into database optimisation and cloud services.  
@@ -85,4 +81,6 @@
 
 ---
 
+### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemSab278&layout=compact&theme=radical)
 ![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareemSab278&show_icons=true&theme=radical)  
