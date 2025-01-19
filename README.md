@@ -33,26 +33,31 @@
 
 ## 📁 **Highlighted Projects**
 ### **1. Company Boycott Tracker**
+- [**Live Site**](https://kareemsab278.github.io/NoThanksCloneFrontEnd/)
 - Includes a backend and frontend running for real-world use.
 - Provides a searchable list of companies with a user-friendly interface.
 - Built with Node.js and Express for the backend and a responsive frontend with HTML, CSS, and JavaScript.
 - Aims to offer a practical solution for users to access relevant company data.
 
 ### **2. Video Downloader**
+- [**Live Site**](https://vidownloader-net.onrender.com/)
 - Built with a basic HTML frontend and backend support using Node.js.
 - Downloads videos from multiple sources including X and Instagram.
 - Optimised for simplicity and usability.
 
 ### **3. Vera Cleaning Services**
-- Created a professional client website: [vera-cleaning.co.uk](https://vera-cleaning.co.uk/).
+- [**Live Site**](https://vera-cleaning.co.uk/)
+- Created a professional client website.
 - Features interactive "Before & After" sliders for service showcases.
 - Includes a contact form integrated with EmailJS for real-time communication.
 
 ### **4. Product Showcase Page**
+- [**Live Site**](https://kareemsab278.github.io/productsPage/)
 - Developed a simple dynamic product display using JSON and JavaScript.
 - Integrated filtering and search functionalities for enhanced user experience.
 
 ### **5. Calculator App**
+- [**Live Site**](https://kareemsab278.github.io/calculator/)
 - Developed a browser-based calculator using JavaScript.
 - Features runtime-determined reusable functions and dynamic UI updates.
 - Emphasis on clean, modular code structure.
