@@ -83,7 +83,7 @@
 
 ## 📫 Let's Connect
 - [Email](mailto:kareemsab278@gmail.com)  
-- [Portfolio](#) _(In Development)_
+- [**Portfolio**](https://kareemsab278.github.io/portfolio/)
 
 ---
 
