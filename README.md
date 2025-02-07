@@ -51,16 +51,22 @@
 - Features interactive "Before & After" sliders for service showcases.
 - Includes a contact form integrated with EmailJS for real-time communication.
 
-### **4. Product Showcase Page**
-- [**Live Site**](https://kareemsab278.github.io/productsPage/)
-- Developed a simple dynamic product display using JSON and JavaScript.
-- Integrated with an API using asynchronous programming in under one hour to test myself.
+### **4. To-Do List**
+- [**Live Site**](https://kareemsab278.github.io/ToDo-app/)
+- Built to practice Object-Oriented Programming (OOP).
+- Features task management with unique IDs and local storage for persistence.
+- Developed using HTML, CSS, and JavaScript.
 
 ### **5. Calculator App**
 - [**Live Site**](https://kareemsab278.github.io/calculator/)
 - Developed a browser-based calculator using JavaScript.
 - Features runtime-determined reusable functions and dynamic UI updates.
 - Emphasis on clean, modular code structure.
+
+### **6. Product Showcase Page**
+- [**Live Site**](https://kareemsab278.github.io/productsPage/)
+- Developed a simple dynamic product display using JSON and JavaScript.
+- Integrated with an API using asynchronous programming in under one hour to test myself.
 
 ---
 
