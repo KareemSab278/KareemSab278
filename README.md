@@ -2,7 +2,7 @@
 # 👨‍💻 Kareem Elsabrouty
 
 🔧 **Junior Developer | Creative Problem Solver**  
-🌱 Passionate about learning and building practical solutions that make life easier.
+🌱 Always learning and building practical solutions that make life easier.
 
 ---
 
