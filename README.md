@@ -13,7 +13,7 @@
 - **CSS**  
   Skilled in responsive design and animations.
 - [**JavaScript**](https://www.freecodecamp.org/certification/KareemSab278/javascript-algorithms-and-data-structures)  
-  Experienced in JavaScript, including asynchronous programming, DOM manipulation, and dynamic user interfaces.
+  Experienced in JavaScript, including asynchronous programming, DOM manipulation, DSA, and dynamic user interfaces.
 - **React**  
   Actively learning skills in building dynamic and reusable components.
 
