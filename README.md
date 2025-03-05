@@ -34,9 +34,9 @@
 ## 📁 **Highlighted Projects**
 
 ### **1. Employee Management System**
-Developed a full-stack web app using React for the frontend and MongoDB for the backend.
-Enables managers to track employees, tasks, and job completion progress.
-Features image upload functionality with Cloudinary integration for efficient storage and retrieval.
+- Developed a full-stack web app using React for the frontend and MongoDB for the backend.
+- Enables managers to track employees, tasks, and job completion progress.
+- Features image upload functionality with Cloudinary integration for efficient storage and retrieval.
 
 ### **2. Company Boycott Tracker**
 - [**Live Site**](https://kareemsab278.github.io/NoThanksCloneFrontEnd/)
