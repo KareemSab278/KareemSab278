@@ -32,38 +32,44 @@
 ---
 
 ## 📁 **Highlighted Projects**
-### **1. Company Boycott Tracker**
+
+### **1. Employee Management System**
+Developed a full-stack web app using React for the frontend and MongoDB for the backend.
+Enables managers to track employees, tasks, and job completion progress.
+Features image upload functionality with Cloudinary integration for efficient storage and retrieval.
+
+### **2. Company Boycott Tracker**
 - [**Live Site**](https://kareemsab278.github.io/NoThanksCloneFrontEnd/)
 - Includes a backend and frontend running for real-world use.
 - Provides a searchable list of companies with a user-friendly interface.
 - Built with Node.js and Express for the backend and a responsive frontend with HTML, CSS, and JavaScript.
 - Aims to offer a practical solution for users to access relevant company data.
 
-### **2. Video Downloader**
+### **3. Video Downloader**
 - [**Live Site**](https://vidownloader-net.onrender.com/)
 - Built with a basic HTML frontend and backend support using Node.js.
 - Downloads videos from multiple sources including X and Instagram.
 - Optimised for simplicity and usability.
 
-### **3. Vera Cleaning Services**
+### **4. Vera Cleaning Services**
 - [**Live Site**](https://vera-cleaning.co.uk/)
 - Created a professional client website.
 - Features interactive "Before & After" sliders for service showcases.
 - Includes a contact form integrated with EmailJS for real-time communication.
 
-### **4. To-Do List**
+### **5. To-Do List**
 - [**Live Site**](https://kareemsab278.github.io/ToDo-app/)
 - Built to practice Object-Oriented Programming (OOP).
 - Features task management with unique IDs and local storage for persistence.
 - Developed using HTML, CSS, and JavaScript.
 
-### **5. Calculator App**
+### **6. Calculator App**
 - [**Live Site**](https://kareemsab278.github.io/calculator/)
 - Developed a browser-based calculator using JavaScript.
 - Features runtime-determined reusable functions and dynamic UI updates.
 - Emphasis on clean, modular code structure.
 
-### **6. Product Showcase Page**
+### **7. Product Showcase Page**
 - [**Live Site**](https://kareemsab278.github.io/productsPage/)
 - Developed a simple dynamic product display using JSON and JavaScript.
 - Integrated with an API using asynchronous programming in under one hour to test myself.
