@@ -26,6 +26,8 @@
 ### **Databases**
 - **MySQL**  
   Managed relational databases, writing efficient queries.
+- **MongoDB**
+  Made an employee management system using MongoDB which is hosted live.
 - **Azure**  
   Hosted a live database and integrated it with an application.
 
