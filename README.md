@@ -91,7 +91,7 @@
 
 ## 🌟 Goals
 🎯 Enhance skills in React and modern JavaScript frameworks (Next.js, Vue.js).  
-📖 Dive deeper into database optimisation and cloud services.
+📖 Dive deeper into database optimisation and cloud services. 
 💡 Build a full-scale project, such as an employee management web app. (I did that!)
 
 ---
