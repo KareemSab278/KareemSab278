@@ -1,3 +1,6 @@
+Here's an updated version of your README to reflect your new chat app:
+
+---
 
 # 👨‍💻 Kareem Elsabrouty
 
@@ -26,8 +29,8 @@
 ### **Databases**
 - **MySQL**  
   Managed relational databases, writing efficient queries.
-- **MongoDB**
-  Made an employee management system using MongoDB which is hosted live.
+- **MongoDB**  
+  Built a live chat app with MongoDB, Node.js, and Express.js.
 - **Azure**  
   Hosted a live database and integrated it with an application.
 
@@ -35,44 +38,50 @@
 
 ## 📁 **Highlighted Projects**
 
-### **1. Employee Management System**
+### **1. Live Chat App**
+- [**Live Site**](https://kareemsab278.github.io/ChatApp-frontend)
+- Developed a real-time chat application using MongoDB, Node.js, Express.js, and React.
+- Features account creation, sign-in authentication, and user search.
+- Enables live chatting and direct messaging between users.
+
+### **2. Employee Management System**
 - [**Live Site**](https://kareemsab278.github.io/VeraCleaningFrontend/)
 - Developed a full-stack web app using React for the frontend and MongoDB for the backend.
 - Enables managers to track employees, tasks, and job completion progress.
 - Features image upload functionality with Cloudinary integration for efficient storage and retrieval.
 
-### **2. Company Boycott Tracker**
+### **3. Company Boycott Tracker**
 - [**Live Site**](https://kareemsab278.github.io/NoThanksCloneFrontEnd/)
 - Includes a backend and frontend running for real-world use.
 - Provides a searchable list of companies with a user-friendly interface.
 - Built with Node.js and Express for the backend and a responsive frontend with HTML, CSS, and JavaScript.
 - Aims to offer a practical solution for users to access relevant company data.
 
-### **3. Video Downloader**
+### **4. Video Downloader**
 - [**Live Site**](https://vidownloader-net.onrender.com/)
 - Built with a basic HTML frontend and backend support using Node.js.
 - Downloads videos from multiple sources including X and Instagram.
 - Optimised for simplicity and usability.
 
-### **4. Vera Cleaning Services**
+### **5. Vera Cleaning Services**
 - [**Live Site**](https://vera-cleaning.co.uk/)
 - Created a professional client website.
 - Features interactive "Before & After" sliders for service showcases.
 - Includes a contact form integrated with EmailJS for real-time communication.
 
-### **5. To-Do List**
+### **6. To-Do List**
 - [**Live Site**](https://kareemsab278.github.io/ToDo-app/)
 - Built to practice Object-Oriented Programming (OOP).
 - Features task management with unique IDs and local storage for persistence.
 - Developed using HTML, CSS, and JavaScript.
 
-### **6. Calculator App**
+### **7. Calculator App**
 - [**Live Site**](https://kareemsab278.github.io/calculator/)
 - Developed a browser-based calculator using JavaScript.
 - Features runtime-determined reusable functions and dynamic UI updates.
 - Emphasis on clean, modular code structure.
 
-### **7. Product Showcase Page**
+### **8. Product Showcase Page**
 - [**Live Site**](https://kareemsab278.github.io/productsPage/)
 - Developed a simple dynamic product display using JSON and JavaScript.
 - Integrated with an API using asynchronous programming in under one hour to test myself.
@@ -91,7 +100,7 @@
 
 ## 🌟 Goals
 🎯 Enhance skills in React and modern JavaScript frameworks (Next.js, Vue.js).  
-📖 Dive deeper into database optimisation and cloud services. 
+📖 Dive deeper into database optimisation and cloud services.  
 💡 Build a full-scale project, such as an employee management web app. (I did that!)
 
 ---
