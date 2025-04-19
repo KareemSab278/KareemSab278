@@ -1,7 +1,3 @@
-Here's an updated version of your README to reflect your new chat app:
-
----
-
 # 👨‍💻 Kareem Elsabrouty
 
 🔧 **Junior Developer | Creative Problem Solver**  
