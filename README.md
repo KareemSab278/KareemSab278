@@ -20,7 +20,7 @@
 - **Node.js & Express.js**  
   Built RESTful APIs for seamless client-server communication.
 - **Python**  
-  Utilised Python once for backend logic and scripting tasks.
+  Utilised Python for backend logic and scripting tasks.
 
 ### **Databases**
 - **MySQL**  
