@@ -103,8 +103,9 @@
 ---
 
 ## 📫 Let's Connect
-- [Email](mailto:kareemsab278@gmail.com)  
+- [**Email**](mailto:kareemsab278@gmail.com)  
 - [**Portfolio**](https://kareemsab278.github.io/portfolio/)
+- [**LinkedIn**](https://www.linkedin.com/in/kareem-elsabrouty-b28960351/)
 
 ---
 
