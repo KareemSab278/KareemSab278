@@ -18,7 +18,7 @@
   Built RESTful APIs for seamless client-server communication.
 - **Python**  
   Utilised Python for backend logic and scripting tasks.
-- **C Sharp**
+- **C#**  
   Currently learning C# in-depth and building projects with it. 
 - **MySQL**  
   Managed relational databases, writing efficient queries.
