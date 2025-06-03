@@ -6,7 +6,6 @@
 ---
 
 ## 🧰 **Tools & Technologies**
-### **Frontend Development**
 - **HTML**  
   Proficient in creating semantic and accessible layouts.
 - **CSS**  
@@ -15,20 +14,22 @@
   Experienced in JavaScript, including asynchronous programming, DOM manipulation, DSA, and dynamic user interfaces.
 - **React**  
   Actively learning skills in building dynamic and reusable components.
-
-### **Backend Development**
 - **Node.js & Express.js**  
   Built RESTful APIs for seamless client-server communication.
 - **Python**  
   Utilised Python for backend logic and scripting tasks.
-
-### **Databases**
+- **C#**
+  Currently learning C# in-depth and building projects with it. 
 - **MySQL**  
   Managed relational databases, writing efficient queries.
 - **MongoDB**  
   Built a live chat app with MongoDB, Node.js, and Express.js.
 - **Azure**  
   Hosted a live database and integrated it with an application.
+- **Docker**
+  Got multiple projects live easily using Docker.
+- **Render**
+  Hosted many live monolithic services such as a boycott site, video downloader, client sites, and much more. 
 
 ---
 
