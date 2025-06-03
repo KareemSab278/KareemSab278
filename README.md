@@ -26,9 +26,9 @@
   Built a live chat app with MongoDB, Node.js, and Express.js.
 - **Azure**  
   Hosted a live database and integrated it with an application.
-- **Docker**
+- **Docker**  
   Got multiple projects live easily using Docker.
-- **Render**
+- **Render**  
   Hosted many live monolithic services such as a boycott site, video downloader, client sites, and much more. 
 
 ---
