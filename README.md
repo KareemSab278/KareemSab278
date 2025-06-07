@@ -13,7 +13,7 @@
 - [**JavaScript**](https://www.freecodecamp.org/certification/KareemSab278/javascript-algorithms-and-data-structures)  
   Experienced in JavaScript, including asynchronous programming, DOM manipulation, DSA, and dynamic user interfaces.
 - **React**  
-  Actively learning skills in building dynamic and reusable components.
+  Building dynamic and reusable components.
 - **Node.js & Express.js**  
   Built RESTful APIs for seamless client-server communication.
 - **Python**  
