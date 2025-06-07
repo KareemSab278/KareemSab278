@@ -19,7 +19,7 @@
 - **Python**  
   Utilised Python for backend logic and scripting tasks.
 - [**C#**](https://www.freecodecamp.org/certification/KareemSab278/foundational-c-sharp-with-microsoft)  
-  Currently learning C# in-depth and building projects with it. 
+  Currently using C# in-depth and building projects with it. 
 - **MySQL**  
   Managed relational databases, writing efficient queries.
 - **MongoDB**  
