@@ -41,54 +41,61 @@
 - Features account creation, sign-in authentication, and user search.
 - Enables live chatting and direct messaging between users.
 
-### **2. Employee Management System**
+### **2. Hotel Booking POS System**
+- [**Live Site**](https://kareemsab278.github.io/booking-system/)
+- Full-stack booking system built with React, TypeScript, and a Flask API.
+- Features full CRUD, real-time price calculation based on booking preferences, and keyboard-based deletion.
+- UI built with Material UI for a clean and modern interface.
+
+### **3. Employee Management System**
 - [**Live Site**](https://kareemsab278.github.io/VeraCleaningFrontend/)
 - Developed a full-stack web app using React for the frontend and MongoDB for the backend.
 - Enables managers to track employees, tasks, and job completion progress.
 - Features image upload functionality with Cloudinary integration for efficient storage and retrieval.
 
-### **3. Company Boycott Tracker**
+### **4. Company Boycott Tracker**
 - [**Live Site**](https://kareemsab278.github.io/NoThanksCloneFrontEnd/)
 - Includes a backend and frontend running for real-world use.
 - Provides a searchable list of companies with a user-friendly interface.
 - Built with Node.js and Express for the backend and a responsive frontend with HTML, CSS, and JavaScript.
 - Aims to offer a practical solution for users to access relevant company data.
 
-### **4. CRUD Management System**
+### **5. CRUD Management System**
 - [**Repository**](https://github.com/KareemSab278/CRUD-Management-System)
 - Developed a full CRUD management system using C# in Visual Studio.
 - Utilized SQL Express for database management and operations.
 - Implemented Create, Read, Update, and Delete operations with a user-friendly interface.
 - Applied best practices for data validation and error handling.
 
-### **5. Video Downloader**
+### **6. Video Downloader**
 - [**Live Site**](https://vidownloader-net.onrender.com/)
 - Built with a basic HTML frontend and backend support using Node.js.
 - Downloads videos from multiple sources including X and Instagram.
 - Optimised for simplicity and usability.
 
-### **6. Vera Cleaning Services**
+### **7. Vera Cleaning Services**
 - [**Live Site**](https://vera-cleaning.co.uk/)
 - Created a professional client website.
 - Features interactive "Before & After" sliders for service showcases.
 - Includes a contact form integrated with EmailJS for real-time communication.
 
-### **7. To-Do List**
+### **8. To-Do List**
 - [**Live Site**](https://kareemsab278.github.io/ToDo-app/)
 - Built to practice Object-Oriented Programming (OOP).
 - Features task management with unique IDs and local storage for persistence.
 - Developed using HTML, CSS, and JavaScript.
 
-### **8. Calculator App**
+### **9. Calculator App**
 - [**Live Site**](https://kareemsab278.github.io/calculator/)
 - Developed a browser-based calculator using JavaScript.
 - Features runtime-determined reusable functions and dynamic UI updates.
 - Emphasis on clean, modular code structure.
 
-### **9. Product Showcase Page**
+### **10. Product Showcase Page**
 - [**Live Site**](https://kareemsab278.github.io/productsPage/)
 - Developed a simple dynamic product display using JSON and JavaScript.
 - Integrated with an API using asynchronous programming in under one hour to test myself.
+
 
 
 ---
