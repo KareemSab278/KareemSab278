@@ -14,10 +14,12 @@
   Experienced in JavaScript, including asynchronous programming, DOM manipulation, DSA, and dynamic user interfaces.
 - **React**  
   Building dynamic and reusable components.
+- **PHP**
+  Using PHP daily at work with legacy code and building pages for internal systems
 - **Node.js & Express.js**  
   Built RESTful APIs for seamless client-server communication.
 - **Python**  
-  Utilised Python for backend logic and scripting tasks.
+  Utilised Python for backend logic, data, and scripting tasks.
 - [**C#**](https://www.freecodecamp.org/certification/KareemSab278/foundational-c-sharp-with-microsoft)  
   Currently using C# in-depth and building projects with it. 
 - **MySQL**  
