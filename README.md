@@ -14,8 +14,8 @@
   Experienced in JavaScript, including asynchronous programming, DOM manipulation, DSA, and dynamic user interfaces.
 - **React**  
   Building dynamic and reusable components.
-- **PHP**
-  Using PHP daily at work with legacy code and building pages for internal systems
+- **PHP**  
+  Using PHP daily at work with legacy code and building pages for internal systems.
 - **Node.js & Express.js**  
   Built RESTful APIs for seamless client-server communication.
 - **Python**  
