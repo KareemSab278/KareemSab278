@@ -1,6 +1,6 @@
 # 👨‍💻 Kareem Elsabrouty
 
-🔧 **Grad Developer | Creative Problem Solver**  
+🔧 **Junior Developer | Creative Problem Solver**  
 🌱 Always learning and building practical solutions that make life easier.
 
 ---
