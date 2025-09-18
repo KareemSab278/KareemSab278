@@ -114,9 +114,9 @@
 
 ## 🌟 Goals
 🎯 Enhance skills in React and modern JavaScript frameworks. *(Achieved!)*  
-📖 Dive deeper into database optimization and cloud services.  
+📖 Dive deeper into database optimization and cloud services.  *(Meh)*
 💡 Build a full-scale project, such as an employee management web app. *(Completed!)*  
-💻 Learn a lower-level, stricter language like C# and build an inventory management system with full CRUD operations.
+💻 Learn a lower-level, stricter language like C# and build an inventory management system with full CRUD operations. *(I hate C# so im learning C instead)*
 
 ---
 
