@@ -37,12 +37,7 @@
 
 ## 📁 **Highlighted Projects**
 
-### **1. Live Chat App**
-- [**Live Site**](https://kareemsab278.github.io/ChatApp/)
-- Developed a real-time chat application using MongoDB, Node.js, Express.js, and React.
-- Features account creation, sign-in authentication, and user search.
-- Enables live chatting and direct messaging between users.
-
+### **Live Chat App**
 ### **2. Hotel Booking POS System**
 - [**Live Site**](https://kareemsab278.github.io/booking-system/)
 - Full-stack booking system built with React, TypeScript, and a Flask API.
