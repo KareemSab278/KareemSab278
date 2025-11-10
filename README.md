@@ -27,8 +27,9 @@
 ---
 
 ## 📁 **Highlighted Progress**
-
-### **Server in C**
+### **Backend in C**
+- Learned how to work with a database using C, returning JSON output, handling requests, and currently linking to a PHP frontend. All built from the ground up and utlizing my C Server.
+### **HTTP Server in C**
 - Learned C syntax, how memory works, and programming more close to hardware.
 ### **Live Chat App**
 - Learned MongoDB, JS, and React.
