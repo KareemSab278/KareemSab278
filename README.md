@@ -26,7 +26,7 @@
   Built a live chat app and StoriVault using MongoDB for simplicity and ease of iteration and changes.
 ---
 
-## 📁 **Highlighted Progress**
+## **Personal Projects**
 ### **Backend in C**
 - Learned how to work with a database using C, returning JSON output, handling requests, and currently linking to a PHP frontend. All built from the ground up and utlizing my C Server.
 ### **HTTP Server in C**
