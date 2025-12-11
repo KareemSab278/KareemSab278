@@ -1,11 +1,11 @@
-# 👨‍💻 Kareem Elsabrouty
+# Kareem Elsabrouty
 
-🔧 **Junior Developer | Creative Problem Solver**  
-🌱 Always learning and building practical solutions that make life easier.
+ **Junior Developer | Creative Problem Solver**  
+ Always learning and building practical solutions that make life easier.
 
 ---
 
-## 🧰 **Tools & Technologies**
+## **Tools & Technologies**
 - **HTML & CSS**  
   Creating and designing semantic and accessible layouts.
 - [**JavaScript**](https://www.freecodecamp.org/certification/KareemSab278/javascript-algorithms-and-data-structures)  
@@ -13,7 +13,7 @@
 - **React**  
   Building dynamic and reusable components and utilizing the React library daily at work.
 - **PHP**  
-  Using PHP daily at work with legacy code and building pages for internal systems.
+  Using PHP daily at work with legacy code and building pages and APIs.
 - **Node.js & Express.js**  
   Built RESTful APIs for seamless client-server communication.
 - **Python**  
@@ -53,18 +53,9 @@
 - Yes, a calculator.
 ### **Product Showcase Page**
 - Learned about Asyncronous Programming in JS
-
 ---
 
-## 🌟 Goals
-💻 Learn a lower-level, stricter language like C# and build an inventory management system with full CRUD operations. *(I hate C# so im learning C instead)*
-🎯 Enhance skills in React and modern JavaScript frameworks. *(Achieved!)*  
-📖 Dive deeper into database optimization and cloud services.  *(Meh)*
-💡 Build a full-scale project, such as an employee management web app. *(Completed!)*  
-
----
-
-## 📫 Let's Connect
+## Contact
 - [**Email**](mailto:kareemsab278@gmail.com)  
 - [**Portfolio**](https://kareemsab278.github.io/portfolio/)
 - [**LinkedIn**](https://www.linkedin.com/in/kareem-elsabrouty-3a4a1937a/)
@@ -72,6 +63,6 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareemSab278&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemSab278&layout=compact&theme=radical)
