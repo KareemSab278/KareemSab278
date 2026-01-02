@@ -1,10 +1,8 @@
 # Kareem Elsabrouty
 
  **Junior Developer**  
- Always learning and building.
-
+ Feel free to check out my personal projects - I'm always learning or building something new!
 ---
-Feel free to check out my personal projects - I'm always building something new!
 
 ## Contact
 - [**Email**](mailto:kareemsab278@gmail.com)  
@@ -15,5 +13,6 @@ Feel free to check out my personal projects - I'm always building something new!
 ---
 
 ### GitHub Stats
-![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareemSab278&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemSab278&layout=compact&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/KareemSab278)
+![GitHub stars](https://img.shields.io/github/stars/KareemSab278)
+![Profile views](https://komarev.com/ghpvc/?username=KareemSab278)
