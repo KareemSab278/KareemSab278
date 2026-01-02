@@ -5,7 +5,6 @@
 
 ---
 Feel free to check out my personal projects - I'm always building something new!
----
 
 ## Contact
 - [**Email**](mailto:kareemsab278@gmail.com)  
