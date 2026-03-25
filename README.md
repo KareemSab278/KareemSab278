@@ -2,7 +2,7 @@
 
  **Junior Developer**  
  Feel free to check out my personal projects - I'm always learning or building something new!
- (Currently learing Rust)
+ (Currently practicing Rust and Next.js)
  
 ---
 
