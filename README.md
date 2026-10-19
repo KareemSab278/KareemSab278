@@ -1,6 +1,6 @@
 # Kareem Elsabrouty
 
- **Junior Developer**  
+ **Software Engineer**  
  Feel free to check out my personal projects - I'm always learning or building something new!
  (Currently up-skilling in Rust)
  
