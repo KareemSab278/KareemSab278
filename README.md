@@ -9,7 +9,7 @@
 ## Contact
 - [**Email**](mailto:kareemsab278@gmail.com)  
 - [**Portfolio**](https://kareem-elsabrouty.vercel.app/)
-- [**LinkedIn**](https://www.linkedin.com/in/kareem-elsabrouty-476216412/)
+- [**LarpedIn**](https://www.linkedin.com/in/kareem-elsabrouty-476216412/)
 ---
 
 ### GitHub Stats
